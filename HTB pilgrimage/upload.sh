@@ -26,4 +26,4 @@ echo
 ./extract.sh output.png
 
 
-#rm "$1" result.png output.png
+rm "$1" result.png output.png
